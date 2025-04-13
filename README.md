@@ -11,7 +11,7 @@ Made By Joy Ahmed
 ```rm -rf Joy-Old
 git clone https://github.com/JOY-AHMED-88/Setup.git
 cd Setup
-python Termux.py
+python Termux-setup.py
 
 
         
